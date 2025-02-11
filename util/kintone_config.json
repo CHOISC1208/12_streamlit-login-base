@@ -1,0 +1,22 @@
+{
+    "production": {
+        "base_url": "https://xxx.cybozu.com/k/v1/records.json",
+        "configs": {
+            "config1": {
+                "app_no": "yy",
+                "apitoken": "zz",
+                "query": ""
+            }
+        }
+    },
+    "development": {
+        "base_url": "https://xxx.cybozu.com/k/v1/records.json",
+        "configs": {
+            "config1": {
+                "app_no": "yy",
+                "apitoken": "zz",
+                "query": ""
+            }
+        }
+    }
+}
